@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="[https://www.linkedin.com](https://www.linkedin.com/in/sevbansaricicek)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="[https://github.com](https://github.com/grimmatic)" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
+  <code><a href="https://www.linkedin.com/in/sevbansaricicek" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/grimmatic" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
 </h5>
 
 <br>
